@@ -1,0 +1,23 @@
+#------------------------------------------------
+# @operation getUserDetails
+#-------------------------------------------------
+
+
+ReqMatch=getUserDetails,username,perfuser1100 | SendResponse=getUserDetails-domain_stf.ref.o2.co.uk-username_perfuser1100.xml 
+ReqMatch=getUserDetails,username,perfuser1101 | SendResponse=getUserDetails-domain_stf.ref.o2.co.uk-username_perfuser1101.xml 
+ReqMatch=getUserDetails,username,perfuser1102 | SendResponse=getUserDetails-domain_stf.ref.o2.co.uk-username_perfuser1102.xml 
+ReqMatch=getUserDetails,username,perfuser1103 | SendResponse=getUserDetails-domain_stf.ref.o2.co.uk-username_perfuser1103.xml 
+ReqMatch=getUserDetails,username,perfuser1104 | SendResponse=getUserDetails-domain_stf.ref.o2.co.uk-username_perfuser1104.xml 
+ReqMatch=getUserDetails,username,perfuser1105 | SendResponse=getUserDetails-domain_stf.ref.o2.co.uk-username_perfuser1105.xml  
+ReqMatch=getUserDetails,username,perfuser1106 | SendResponse=getUserDetails-domain_stf.ref.o2.co.uk-username_perfuser1106.xml 
+ReqMatch=getUserDetails,username,perfuser1107 | SendResponse=getUserDetails-domain_stf.ref.o2.co.uk-username_perfuser1107.xml 
+ReqMatch=getUserDetails,username,perfuser1108 | SendResponse=getUserDetails-domain_stf.ref.o2.co.uk-username_perfuser1108.xml 
+ReqMatch=getUserDetails,username,perfuser1109 | SendResponse=getUserDetails-domain_stf.ref.o2.co.uk-username_perfuser1109.xml 
+ReqMatch=getUserDetails,username,perfuser1110 | SendResponse=getUserDetails-domain_stf.ref.o2.co.uk-username_perfuser1110.xml 
+ReqMatch=getUserDetails,username,perfuser1111 | SendResponse=getUserDetails-domain_stf.ref.o2.co.uk-username_perfuser1111.xml 
+ReqMatch=getUserDetails,username,perfuser1112 | SendResponse=getUserDetails-domain_stf.ref.o2.co.uk-username_perfuser1112.xml 
+ReqMatch=getUserDetails,username,perfuser1113 | SendResponse=getUserDetails-domain_stf.ref.o2.co.uk-username_perfuser1113.xml 
+ReqMatch=getUserDetails,username,perfuser1114 | SendResponse=getUserDetails-domain_stf.ref.o2.co.uk-username_perfuser1114.xml 
+ReqMatch=getUserDetails,username,perfuser1115 | SendResponse=getUserDetails-domain_stf.ref.o2.co.uk-username_perfuser1115.xml 
+ReqMatch=getUserDetails,username,perfuser1116 | SendResponse=getUserDetails-domain_stf.ref.o2.co.uk-username_perfuser1116.xml
+ReqMatch=getUserDetails,username,perfuser1117 | SendResponse=getUserDetails-domain_stf.ref.o2.co.uk-username_perfuser1117.xml  
